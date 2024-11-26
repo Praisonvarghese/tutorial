@@ -1,1 +1,2 @@
-Newly added file
+Newly added file in git
+second line added in git
